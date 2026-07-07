@@ -57,3 +57,8 @@ To verify data loading and check the summary:
 ```bash
 python dataset.py
 ```
+<img width="1891" height="706" alt="image" src="https://github.com/user-attachments/assets/f59c7581-f8bd-4a03-ace7-94f444e8a206" />
+<img width="1914" height="901" alt="image" src="https://github.com/user-attachments/assets/d24f29b6-1b57-4f3a-8681-8559a47c4898" />
+<img width="1673" height="565" alt="image" src="https://github.com/user-attachments/assets/3fada1df-4a13-42d0-92ba-3feb67870f9d" />
+
+
